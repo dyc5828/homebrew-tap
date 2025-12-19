@@ -1,8 +1,8 @@
 class Bkup < Formula
   desc "Simple CLI tool for backing up files and directories"
   homepage "https://github.com/dyc5828/bkup-cli"
-  url "https://github.com/dyc5828/bkup-cli/archive/refs/tags/v1.1.0.tar.gz"
-  sha256 "2a301144cbff4c251b0574b8be70939f57b203ce4e86aebcd434077e4e10d05d"
+  url "https://github.com/dyc5828/bkup-cli/archive/refs/tags/v1.2.0.tar.gz"
+  sha256 "495da98b351feb7fdbd0d24d4abfd786a0b2264a74728877ee990873d4fc0789"
   license "MIT"
 
   def install
